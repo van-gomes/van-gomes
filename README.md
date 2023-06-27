@@ -22,8 +22,9 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Type Script" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px- 
-       React-icon.svg.png">
+   <img align="center" alt="React" height="30" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React- 
+       icon.svg/1024px-React- 
+        icon.svg.png"> 
    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
  
