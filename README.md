@@ -5,11 +5,18 @@
 
  ##
 
+ <h3> 📚 Github Stats: <br></h3>
+
   <div align="center">
-    <a href="https://github.com/gomesvania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api? 
-       username=gomesvania&theme=darcula&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&theme=darcula&layout=compact&langs_count=7"/>
+
+  <a href="https://github.com/gomesvania">
+
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomesvania&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
+<br>
+    
   </div>
  
  <div align="center" style="display: inline_block"><br>
