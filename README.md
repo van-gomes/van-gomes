@@ -11,8 +11,8 @@
 
   <a href="https://github.com/gomesvania">
 
-   <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> |   
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" />
+   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> |   
+   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" />
  
 </div>
 
