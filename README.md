@@ -11,8 +11,9 @@
 
   <a href="https://github.com/gomesvania">
 
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomesvania&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomesvania&show_icons=true&theme=shades-of-purple&show_icons=true/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=shades-of-purple" alt="stats" />
+
 </div>
 
 <br>
