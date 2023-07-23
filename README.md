@@ -11,7 +11,7 @@
  
   ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=shades-of-purple" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
   ___
