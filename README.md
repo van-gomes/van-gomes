@@ -11,12 +11,12 @@
  
   ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=tokyonight" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=stokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=tokyonight" alt="stats" /> |
 |:---:|:---:|
 
   ___
 
- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=shades-of-purple"/>
+ <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
 
