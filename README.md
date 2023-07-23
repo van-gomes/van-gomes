@@ -11,14 +11,12 @@
 
 ___
 
-   <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> |
+   <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" />
 ___
  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=shades-of-purple"/>
-  
-|:---:|:---:|  
- 
+   
 </div>
 
 <br>
