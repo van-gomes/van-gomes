@@ -16,7 +16,7 @@
 
   ___
 
- <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
+ <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
 
 </div>
 
