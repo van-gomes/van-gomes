@@ -4,20 +4,15 @@
 
 
  ##
+__
 
-  <div align="center">
-
-  <a href="https://github.com/gomesvania">
- 
-  ___
-
-| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=tokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=tokyonight" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomes&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
-  ___
+___
 
- <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&layout=compact&langs_count=16&theme=tokyonight"/>
-
+<div width="100%" align="center">
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesvania&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
 
 <br>
