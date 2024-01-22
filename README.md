@@ -3,10 +3,7 @@
 <p align="center">Desenvolvedora Full Stack Júnior</p>
 
 
- ##
-__
-
-| <img src="https://github-readme-stats.vercel.app/api?username=gomes&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=natalia-fs&theme=shades-of-purple" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomes&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
 ___
