@@ -1,9 +1,9 @@
 <h3 align="center">🧑🏻‍💻 (Ela | Dela) 🧑🏻‍💻</h3>
  
-<p align="center">Desenvolvedora Full Stack Júnior</p>
+<p align="center">Desenvolvedora FrontEnd Júnior</p>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=shades-of-purple" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomesvania&theme=midnight-purplee&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomesvania&theme=midnight-purple" alt="stats" /> |
 |:---:|:---:|
 
 ___
