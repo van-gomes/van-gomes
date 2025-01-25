@@ -1,5 +1,3 @@
-<h3 align="center">🧑🏻‍💻 (She | Her) 🧑🏻‍💻</h3>
-
 🌟 **Junior Frontend Developer | Tata Consultancy Services (TCS)**
 
 Hello! I’m a developer passionate about learning and sharing knowledge. With 3 years of experience in software development, I have a **strong focus** and hands-on experience with Frontend technologies, always seeking new challenges.
