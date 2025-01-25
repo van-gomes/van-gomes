@@ -1,9 +1,10 @@
+<h3 align="center">🧑🏻‍💻 (She | Her) 🧑🏻‍💻</h3>
 
+🌟 **Junior Frontend Developer | Tata Consultancy Services (TCS)**
 
- <h3 align="center">🧑🏻‍💻 (Ela | Dela | She | Her) 🧑🏻‍💻</h3>
- 
-<p align="center">Engenieer FrontEnd</p>
-
+Hello! I’m a developer passionate about learning and sharing knowledge. With 3 years of experience in software development, I have a **strong focus** and **hands-on experience with Frontend technologies**, always seeking new challenges.
+Currently, I work as a **Junior Frontend Developer** at Tata Consultancy Services (TCS), where I continue to expand my skills and apply my knowledge. I’m also deepening my expertise in **C#, .NET,** and **SQL Databases**, broadening my ability to provide full-stack solutions.
+I believe in the power of continuous learning and the importance of sharing knowledge. I am always willing to collaborate, discuss, and contribute to the growth of the tech community. In addition to development, I’m passionate about **education** and **personal development**.
 | <img src="https://github-readme-stats.vercel.app/api?username=van-gomes&theme=gotham&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=van-gomes&theme=gotham" alt="stats" /> |
 |:---:|:---:|
 
@@ -13,54 +14,16 @@ ___
   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-gomes&langs_count=6&theme=gotham&layout=compact" />
 </div>
 
-<br>
+<br/>
 
-<br>
- 
-<h2>Principais Interesses</h2>
+## Main Tecnologies
 
-<h3>Backend</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg"/>
-    <img align="center" alt="Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-    <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/PHP-Light.svg">
-    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
-    <img align="center" alt="Node" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg"/>
-<div> 
-
-
-<h3>Banco de Dados</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
-    <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="SQL-Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
-<div> 
-
-
-
-<h3>Frontend</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
-     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg">
-    <img align="center" alt="React" height="50" width="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Light.svg">
-    <img align="center" alt="Figma" height="35" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Light.svg">
-<div> 
-
-
-
-<h3>DEVOPS</h3>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Docker" height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Docker.svg">
-    <img align="center" alt="rafaelq80-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Kubernetes.svg">
-    <img align="center" alt="rafaelq80-Github-Actions" height="30"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/GithubActions-Dark.svg">
-<div> 
-
-
-  
+![React](	https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=1572B6)
 
