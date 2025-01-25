@@ -6,8 +6,7 @@ Hello! I’m a developer passionate about learning and sharing knowledge. With 3
 Currently, I work as a **Junior Frontend Developer** at Tata Consultancy Services (TCS), where I continue to expand my skills and apply my knowledge. I’m also deepening my expertise in **C#, .NET,** and **SQL Databases**, broadening my ability to provide full-stack solutions.
 I believe in the power of continuous learning and the importance of sharing knowledge. I am always willing to collaborate, discuss, and contribute to the growth of the tech community. In addition to development, I’m passionate about **education** and **personal development**.
 
-<section>
-  <div style="display: flex; justify-content: space-between;">
+<section style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=van-gomes&theme=gotham&show_icons=true" />
     </div>
@@ -17,7 +16,6 @@ I believe in the power of continuous learning and the importance of sharing know
     <div style="flex: 1; text-align: center;">
       <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-gomes&langs_count=6&theme=gotham&layout=compact" />
     </div>
-  </div>
 </section>
 
 <br/>
