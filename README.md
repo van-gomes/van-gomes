@@ -7,13 +7,13 @@ Currently, I work as a **Junior Frontend Developer** at Tata Consultancy Service
 I believe in the power of continuous learning and the importance of sharing knowledge. I am always willing to collaborate, discuss, and contribute to the growth of the tech community. In addition to development, I’m passionate about **education** and **personal development**.
 
 <section style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: center;">
+    <div style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=van-gomes&theme=gotham&show_icons=true" />
     </div>
-    <div style="flex: 1; text-align: center;">
+    <div style="text-align: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=van-gomes&theme=gotham" alt="stats" />
     </div>
-    <div style="flex: 1; text-align: center;">
+    <div style="text-align: center;">
       <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-gomes&langs_count=6&theme=gotham&layout=compact" />
     </div>
 </section>
