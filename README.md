@@ -5,14 +5,20 @@
 Hello! I’m a developer passionate about learning and sharing knowledge. With 3 years of experience in software development, I have a **strong focus** and **hands-on experience with Frontend technologies**, always seeking new challenges.
 Currently, I work as a **Junior Frontend Developer** at Tata Consultancy Services (TCS), where I continue to expand my skills and apply my knowledge. I’m also deepening my expertise in **C#, .NET,** and **SQL Databases**, broadening my ability to provide full-stack solutions.
 I believe in the power of continuous learning and the importance of sharing knowledge. I am always willing to collaborate, discuss, and contribute to the growth of the tech community. In addition to development, I’m passionate about **education** and **personal development**.
-| <img src="https://github-readme-stats.vercel.app/api?username=van-gomes&theme=gotham&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=van-gomes&theme=gotham" alt="stats" /> |
-|:---:|:---:|
 
-___
-
-<div width="100%" align="center">
-  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-gomes&langs_count=6&theme=gotham&layout=compact" />
-</div>
+<section>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=van-gomes&theme=gotham&show_icons=true" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=van-gomes&theme=gotham" alt="stats" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-gomes&langs_count=6&theme=gotham&layout=compact" />
+    </div>
+  </div>
+</section>
 
 <br/>
 
